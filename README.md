@@ -6,3 +6,7 @@
 <code>
   https://www.youtube.com/watch?v=XeX1vsaufF0
 </code>
+
+<h2>Como ficará o projeto</h2>
+
+![image](https://user-images.githubusercontent.com/72364037/106963960-21e1e980-6720-11eb-838c-93fff7e3bf39.png)
