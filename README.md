@@ -8,3 +8,5 @@
 </code>
 
 <h2>Como ficará o projeto</h2>
+
+![image](https://user-images.githubusercontent.com/72364037/106964389-c95f1c00-6720-11eb-9e70-1df6170070f4.png)
