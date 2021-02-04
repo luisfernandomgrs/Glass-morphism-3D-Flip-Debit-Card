@@ -9,4 +9,10 @@
 
 <h2>Como ficará o projeto</h2>
 
+<strong>Frente</strong>
+
 ![image](https://user-images.githubusercontent.com/72364037/106964389-c95f1c00-6720-11eb-9e70-1df6170070f4.png)
+
+<strong>Verso</strong>
+
+![image](https://user-images.githubusercontent.com/72364037/106964509-f90e2400-6720-11eb-99eb-2c397ddf9a8e.png)
