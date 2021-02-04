@@ -9,4 +9,4 @@
 
 <h2>Como ficará o projeto</h2>
 
-![image](https://user-images.githubusercontent.com/72364037/106963960-21e1e980-6720-11eb-838c-93fff7e3bf39.png)
+![image](https://user-images.githubusercontent.com/72364037/106964137-6c636600-6720-11eb-94a2-1169018da624.png)
