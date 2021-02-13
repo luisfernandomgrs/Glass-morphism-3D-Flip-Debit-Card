@@ -16,3 +16,7 @@
 <strong>Verso</strong>
 
 ![image](https://user-images.githubusercontent.com/72364037/106964509-f90e2400-6720-11eb-99eb-2c397ddf9a8e.png)
+
+<h2>Confira o resultado deste projeto, aqui</h2>
+
+https://luisfernandomgrs.github.io/Glass-morphism-3D-Flip-Debit-Card/
